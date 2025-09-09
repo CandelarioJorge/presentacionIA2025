@@ -6,4 +6,5 @@
 *.wasm.gz filter=lfs diff=lfs merge=lfs -text
 *.framework.js.gz filter=lfs diff=lfs merge=lfs -text
 *.symbols.json.gz filter=lfs diff=lfs merge=lfs -text
+Build/* filter=lfs diff=lfs merge=lfs -text
 *.gz filter=lfs diff=lfs merge=lfs -text
